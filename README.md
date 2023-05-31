@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdoul fataoh kabore</h1>
+<h1 align="center">Hi 👋, I'm abdoulfataoh</h1>
 <h3 align="center">A passionate Artificial Intelligence and python developer</h3>
 
 <p align="left">
