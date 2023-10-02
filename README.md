@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Abdoul</h1>
-<h3 align="center">A passionate Artificial Intelligence and python developer</h3>
+<h3 align="center">#AI #Software</h3>
 
 <p align="left">
 </p>
