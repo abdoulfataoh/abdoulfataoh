@@ -1,5 +1,7 @@
 <h1 align="center">hello, I'm Abdoul 😉</h1>
 
+<p><img src="https://github.com/abdoulfataoh/abdoulfataoh/blob/main/code.png"></p>
+
 <p align="left">
 </p>
 
