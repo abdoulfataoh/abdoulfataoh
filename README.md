@@ -1,6 +1,6 @@
-<h1 align="center">hello, I'm Abdoul 😉</h1>
+<p align="center">welcome, i'm abdoul 😉</p>
 
-<p><img src="https://github.com/abdoulfataoh/abdoulfataoh/blob/main/code.png"></p>
+<p><img src="https://github.com/abdoulfataoh/abdoulfataoh/blob/main/code.svg"></p>
 
 <p align="left">
 </p>
