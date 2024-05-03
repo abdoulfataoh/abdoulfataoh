@@ -1,5 +1,3 @@
-<p align="center">welcome, i'm abdoul 😉</p>
-
 <p><img src="https://github.com/abdoulfataoh/abdoulfataoh/blob/main/code.svg"></p>
 
 <p align="left">
